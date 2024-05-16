@@ -1,7 +1,4 @@
 # Loan-Eligibility-Predictor-using-Dream-Housing-Finance-company-dataset
-"Explore comprehensive loan eligibility analysis with Comprehensive eda and advance machine learning models by using dream housing finance company dataset. Built precise model with 100% accuracy using decision tree & random forest classifiers for comprehensive predictions."
-
-# Loan Eligibility Predictor
 
 ## Overview
 
